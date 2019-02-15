@@ -30,6 +30,7 @@ const ItemsList = styled.div`
   margin: 0 auto;
 `
 
+export { ALL_ITEMS_QUERY }
 export default () =>
   <Centre>
     <p>Shop!</p>
